@@ -1,2 +1,5 @@
 # miPrimerRepo
-Mi primer repositori. wuuu1
+
+Mi primer repositorio. wuuu1
+
+Mi primera contribución local para Github.
